@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sandwich Club</string>
+    <string name="app">Sandwich Club</string>
 
     <!-- Detail Activity-->
     <string name="detail_also_known_as_label">Also known as:</string>
